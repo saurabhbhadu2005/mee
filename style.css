@@ -1,0 +1,47 @@
+.nav-item>a:hover{
+    background-color: #5ec549;
+	border-color: #5ec549;
+    padding: 10px 10px;
+}
+.services{
+    background-color: #4e3914;
+    color: #5ec549;
+    padding:5px;
+}
+.services>button{
+    background-color: #5ec549;
+    color: #4e3914;
+    margin: 2%;
+	border:none;
+}
+.get-button{
+    background-color: #5ec549;
+    color: #4e3914;
+	border:none;
+}
+.link{
+    color: #5ec549;
+}
+.bg-img{
+    position: relative;
+}
+.bg-text{
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+.bg-text>h2{
+    padding-top:10%
+}
+.bg-text>h3{
+    padding-top:10%
+}
+.team{
+    background-color: #5ec549;
+    color: #4e3914;
+    border-radius:10px;
+}
+.button{
+    background-color: #5ec549;
+    border: none;
+}
